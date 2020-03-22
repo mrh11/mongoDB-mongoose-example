@@ -1,8 +1,7 @@
 # mongoDB-mongoose-example
 
 -file structure should be:
--Database:
-  -index.js
+-Database/index.js
  
 -Server:
   -models.js
