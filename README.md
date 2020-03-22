@@ -1,6 +1,6 @@
 # mongoDB-mongoose-example
 
-file structure should be 
+-file structure should be 
 -Database:
   -index.js
  
