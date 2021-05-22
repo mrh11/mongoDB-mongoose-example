@@ -1,2 +1,2 @@
 # MongoDB-mongoose-example
-small repo to help tutor junior developes learn MongoDB
+small repo to help junior developers learn MongoDB
